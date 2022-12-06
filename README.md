@@ -4,6 +4,5 @@ O projeto consiste de um painel virtual em Realidade Aumentada (RA), desenvolvid
 ## FIGURA 01 - Painel final
 ![image](https://user-images.githubusercontent.com/81031562/205982559-ec917a4c-757d-4508-879c-3586ed10ee30.png)
 
-
-
-
+## Figura 02 - Exposição do projeto na Semana Nacional de Ciência e Tecnologia 2022 (SNCT).
+![image](https://user-images.githubusercontent.com/81031562/205987756-07db61e5-8e03-4a48-9a70-349da9369242.png)
