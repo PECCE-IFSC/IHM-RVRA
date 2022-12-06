@@ -1,7 +1,7 @@
 # IHM-RVRA
 O projeto consiste no desenvolvimento de um painel em Realidade Virtual (RV), para o treinamento, e outro em Realidade Aumentada (RA), para realizar o suporte ao operador no chão de fábrica. O contexto escolhido foi a operação com quadros de distribuição de energia, proposto pelo projeto Oficina 4.0.  
 
-No painel de treinamento, o usuário deverá interagir com os disjuntores virtuais para aprender a lógica de operação do sistema.
+No painel de treinamento, o usuário deverá interagir com os disjuntores virtuais para aprender a lógica de operação do sistema. É possível simular uma falha em algum disjuntor, através dos botões presentes na parte inferior do painel, para forçar o operador a pensar em uma nova estratégia de acionamento.
 ## FIGURA 01 - Painel de treinamento
 ![image](https://user-images.githubusercontent.com/81031562/205990864-c395c425-d9a8-44b4-979b-8d2feef594eb.png)
 
