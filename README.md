@@ -11,3 +11,7 @@ Já no painel de operação, o objetivo é que o operador faça o uso de um disp
 
 ## Figura 03 - Exposição do projeto na Semana Nacional de Ciência e Tecnologia 2022 (SNCT).
 ![image](https://user-images.githubusercontent.com/81031562/205987756-07db61e5-8e03-4a48-9a70-349da9369242.png)
+
+## Figura 04 - Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC 2023 (SEPEI)
+![WhatsApp Image 2023-09-21 at 13 52 15](https://github.com/PECCE-IFSC/IHM-RVRA/assets/81031562/c427307b-cf54-4fdc-89c0-9525478c1da8)
+
